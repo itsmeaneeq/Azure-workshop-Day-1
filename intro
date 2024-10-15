@@ -1,0 +1,177 @@
+Introduction to Cloud Computing
+what is cloud computing ?
+The On Demand Delivery of computing services like power databases, storage, applications and other IT resources using internet with pay as you go pricing 
+IAAS :
+Infrastructure As A Service 
+offers Virtualized Machines and servers to host and wide range of applications 
+Ex :Azure Virtual Machines
+SAAS:
+Software As A Service:
+Delivers Software Applications over Internet, eliminating the local installations
+Ex:Microsoft 365
+PAAS:
+Platform As A Service
+Virtual platform to create a Custom Software where the users an focus on building deploying and testing upon underlying infrastructure
+Ex: Azure App Service
+
+Benefits of Cloud Computing
+> Scalability
+> Accessibility
+> Improved performance
+> Maintanence
+
+Scalability:
+Easily Scale Resources up or down based on demand ensuring optimal performance
+Ex: Spotify
+
+Accessibility:
+Users can access cloud services and data anywhere with an internet connection
+
+Improved Performance:
+Azure provides high performance computing you can use CDN content delivery network to improve performance and also realtime tools
+Ex:onedrive, gmail, google drive
+
+Maintenance:
+Azure handles all the infrastructure updates and maintanins it
+
+Challenges in cloud adoption:
+
+S-Strengths
+W-Weaknesses
+O-Oppurtunities
+T-Threats
+
+Strengths:
+Scalability - cloud resources Easily Scale Resources up or down based on demand ensuring optimal performance
+Cost Effectiveness - Reduces and maintains costs leads to sognificant savings
+
+Weaknesses:
+Dependence on Internet Connectivity - cloud services need reliable internet access and ditruptions can lead to down the service
+Data Security and privacy concerns - storing sensitive data offsite raise caoncerns
+
+Oppurtunities:
+Growing Market Demand - increasing reliance on cloud computing by businesses 
+Emergence of new tecnologies - innvation such as AI, ML, IOT can be integrated with cloud services
+
+Threats:
+Intense competetion - the cloud computing market is highly competetive
+Regularity changes - changes in regulations regarding data protection and privacy can impact how cloud services work
+
+On-premesis:
+ something is located within a company's own facilities, rather than in a remote location such as a cloud or server farm
+ it is also known as private cloud 
+ it is a customer management where he manages all of requirements and no invlovement of cloud service provider
+ 
+Data and  Access
+Applications 
+Runtime
+Operating system
+Virtual machine 
+Compute
+networking
+storage
+
+ The above requirements are all customer manages 
+
+ Infrastructure As a Service :
+
+  in this service,
+  customer will manage 
+
+ Data and  Access
+ Applications 
+ Runtime
+ Operating system
+ Virtual machine
+
+ cloud service provider will manage
+ 
+ Compute
+ networking
+ storage
+
+ Platform As a Service :
+  in this service, customer will manage
+  
+   Data and  Access
+   Applications
+
+   Cloud service provider will manage
+
+   Runtime
+   Operating system
+   Virtual machine
+   Compute
+   networking
+   storage
+
+   Software As a Service :
+
+   in this service customer will manage
+
+   Data and Access 
+
+   Cloud Service provider will provide
+  
+   Applications
+   Runtime
+   Operating system
+   Virtual machine
+   Compute
+   networking
+   storage
+
+   Physical Infrastructure:
+
+   The physical Infrastructure of Microsoft Azure contains datacenters, servers, storage devices and networking equipment
+
+   Datacenters : Azure has datacenters around the world, but they are not directly accesible
+
+   Regions: Azure organizes datacenters into geographic regions
+   factors to consider when selecting a region :
+    Data privacy 
+    Speed
+    Service availabilty
+    Ex: US cloud, china cloud have some restrictions
+
+    Availability zones :
+
+    Azure further subdivides regions into availability zones
+    imagine as seperate datacenters within the same region, each with its own independent power source cooling system and dedicated network infrastructure
+
+    -> Core Architectural Components of Azure:
+
+1. Azure Regions: Azure regions are geographical locations around the world where Micsrosoft maintains data centers for its cloud computing services. 
+   Example: regions in India are Pune, chennai and Mumbai.
+
+2. Azure Sovereign Regions: They are not managed by Microsoft and may have restrictions to certain customers. These regions are isolated.
+   Example: US, Germany and China.
+
+3. Azure Resources: A resource is something that is used to manage services in azure.
+   Examples: Virtual Machines [VM]
+
+4. Azure Data Centers:  Datacentres are like a group of networked computer servers.
+   Examples: North central [US], Japan west, etc.
+
+5. Azure Suscription: We get access to deploy and consume the azure resources. It can be purchased and used for a period of time.
+   Types: --> Free Trial
+          --> Pay-as-you-go
+
+6. Azure policies: It allows one to govern the azure resources.
+
+
+    
+    
+    
+    
+   
+
+
+
+
+
+
+
+
+
+
