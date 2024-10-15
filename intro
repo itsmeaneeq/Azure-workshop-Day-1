@@ -139,25 +139,25 @@ storage
     Azure further subdivides regions into availability zones
     imagine as seperate datacenters within the same region, each with its own independent power source cooling system and dedicated network infrastructure
 
-    -> Core Architectural Components of Azure:
+    . Core Architectural Components of Azure:
 
-1. Azure Regions: Azure regions are geographical locations around the world where Micsrosoft maintains data centers for its cloud computing services. 
-   Example: regions in India are Pune, chennai and Mumbai.
+1. Azure Regions: Azure organizes datacenters into geographic regions
+   Example:  US cloud, china cloud
 
 2. Azure Sovereign Regions: They are not managed by Microsoft and may have restrictions to certain customers. These regions are isolated.
    Example: US, Germany and China.
 
-3. Azure Resources: A resource is something that is used to manage services in azure.
+3. Azure Resources: Each component in your Azure tenant
    Examples: Virtual Machines [VM]
 
-4. Azure Data Centers:  Datacentres are like a group of networked computer servers.
+4. Azure Data Centers: Azure has datacenters around the world, but they are not directly accesible
    Examples: North central [US], Japan west, etc.
 
-5. Azure Suscription: We get access to deploy and consume the azure resources. It can be purchased and used for a period of time.
-   Types: --> Free Trial
+5. Azure Suscription: We get access to deploy and consume the azure resources. It can be purchased and used for a period of time. Every Azure Account requires atleast one subscription
+   Types: --> Free 
           --> Pay-as-you-go
 
-6. Azure policies: It allows one to govern the azure resources.
+6. Azure policies: It is applied at group level or sub level in order to restrict role based access control(RBAC).
 
 
     
